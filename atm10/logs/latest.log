@@ -7596,3 +7596,16 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 19:06:45.915] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 548
 [19Sep2025 19:06:46.262] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
 [19Sep2025 19:06:46.262] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
+[19Sep2025 19:11:46.312] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 19:11:46.312] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: B: 1366MB / C: 1367MB / Diff: +1MB
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[19Sep2025 19:16:45.962] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[19Sep2025 19:16:45.963] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 548
+[19Sep2025 19:16:46.362] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 19:16:46.362] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
