@@ -7524,3 +7524,17 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 15:14:16.231] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [3/10]
 [19Sep2025 15:14:16.231] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
 [19Sep2025 15:14:16.319] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:19:16.368] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:24:09.233] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=105, z=10}
+[19Sep2025 15:24:09.237] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=106, z=10}
+[19Sep2025 15:24:09.238] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=106, z=11}
+[19Sep2025 15:24:09.238] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=105, z=11}
+[19Sep2025 15:24:09.238] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=104, z=10}
+[19Sep2025 15:24:09.239] [Server thread/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-65, y=104, z=11}
+[19Sep2025 15:24:09.308] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Hmm (33de7a4a-4624-497d-90b3-07ff66fd8cdb) at BlockPos{x=4096, y=64, z=0} with template sanguine sanctuary
+[19Sep2025 15:24:09.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6845ms or 136 ticks behind
+[19Sep2025 15:24:16.371] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:24:22.989] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 15:24:22.989] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 15:24:22.989] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[19Sep2025 15:24:22.989] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
