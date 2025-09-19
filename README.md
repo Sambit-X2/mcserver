@@ -3,7 +3,7 @@
 Every 5 days 
 
 # Starting server watch
-sh startserver.sh  
+cd atm10/ && sh startserver.sh  
 
 # Autosave
 watch -n 600 'git add . && git commit -m "autosave" || true && git push origin main'

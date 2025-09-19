@@ -1,22 +1,22 @@
-[15:03:14] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[15:03:14] [INIT] Loaded plugins:
-[15:03:14] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[15:03:14] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[15:03:14] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
-[15:03:14] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
-[15:03:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[15:03:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[15:03:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[15:03:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[15:03:14] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[15:03:14] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
-[15:03:14] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[15:03:14] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
-[15:03:14] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[15:03:15] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.107 s
-[15:03:15] [INFO] Loaded script startup_scripts:burns.js in 0.001 s
-[15:03:15] [INFO] Loaded script startup_scripts:constants.js in 0.005 s
-[15:03:15] [INFO] Loaded script startup_scripts:CreativeMenuAdditions.js in 0.0 s
-[15:03:15] [INFO] startup_scripts:CustomAdditions.js#1: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
-[15:03:15] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.009 s
-[15:03:15] [INFO] Loaded 5/5 KubeJS startup scripts in 0.644 s with 0 errors and 0 warnings
+[17:15:37] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[17:15:37] [INIT] Loaded plugins:
+[17:15:37] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[17:15:37] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[17:15:37] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[17:15:37] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
+[17:15:37] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:15:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[17:15:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:15:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:15:37] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[17:15:37] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[17:15:37] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[17:15:37] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[17:15:37] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[17:15:38] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.108 s
+[17:15:38] [INFO] Loaded script startup_scripts:burns.js in 0.001 s
+[17:15:38] [INFO] Loaded script startup_scripts:constants.js in 0.01 s
+[17:15:38] [INFO] Loaded script startup_scripts:CreativeMenuAdditions.js in 0.0 s
+[17:15:38] [INFO] startup_scripts:CustomAdditions.js#1: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[17:15:38] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.009 s
+[17:15:38] [INFO] Loaded 5/5 KubeJS startup scripts in 0.637 s with 0 errors and 0 warnings
