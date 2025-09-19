@@ -7544,3 +7544,10 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 17:56:45.564] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [5/10]
 [19Sep2025 17:56:45.564] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
 [19Sep2025 17:56:45.864] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 18:01:45.913] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 18:02:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [All the Little Cogs]
+[19Sep2025 18:06:45.613] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 18:06:45.613] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 18:06:45.613] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [8/10]
+[19Sep2025 18:06:45.614] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[19Sep2025 18:06:45.914] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task

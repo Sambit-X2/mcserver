@@ -194,6 +194,12 @@
     },
     "done": false
   },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2025-09-19 18:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-09-19 17:53:15 +0000"
