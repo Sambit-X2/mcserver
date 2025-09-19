@@ -139,5 +139,17 @@
     },
     "done": false
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-09-19 16:36:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-19 16:36:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

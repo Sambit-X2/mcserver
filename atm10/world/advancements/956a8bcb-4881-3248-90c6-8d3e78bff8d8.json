@@ -81,9 +81,27 @@
     },
     "done": true
   },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-09-19 16:35:12 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-09-19 16:25:44 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-09-19 16:38:59 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-09-19 16:37:49 +0000"
     },
     "done": true
   },
@@ -129,6 +147,12 @@
   "apotheosis:progression/root": {
     "criteria": {
       "tick": "2025-09-19 16:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-19 16:37:49 +0000"
     },
     "done": true
   },
