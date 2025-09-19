@@ -7573,3 +7573,24 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 16:09:16.668] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
 [19Sep2025 16:09:58.979] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c88bb59[id=956a8bcb-4881-3248-90c6-8d3e78bff8d8,name=Troy,properties={}] lost connection: Incompatible client! Please use NeoForge 21.1.206
 [19Sep2025 16:09:59.018] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Sep2025 16:13:55.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Sammon_ lost connection: Timed out
+[19Sep2025 16:13:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ left the game
+[19Sep2025 16:13:56.030] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Sep2025 16:14:16.717] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 16:14:16.718] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
+[19Sep2025 16:14:23.219] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [2/10]
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[19Sep2025 16:14:23.220] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 387
+[19Sep2025 16:19:16.767] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 16:19:16.768] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
+[19Sep2025 16:21:15.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Sammon_[/127.0.0.1:32772] logged in with entity id 25 at (21.594342101567655, 77.0, 28.803464779629792)
+[19Sep2025 16:21:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ joined the game
+[19Sep2025 16:21:16.210] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{_Sammon_} with UUID 9e0ba823-7866-39ea-aa6d-14a2afcd57d9.
+[19Sep2025 16:21:16.257] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (0 unused), uncached profiles: 0, total profiles: 2
+[19Sep2025 16:21:21.228] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: _Sammon_
