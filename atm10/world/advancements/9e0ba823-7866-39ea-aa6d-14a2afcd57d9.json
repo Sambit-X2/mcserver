@@ -193,5 +193,11 @@
     },
     "done": true
   },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-09-19 17:43:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
