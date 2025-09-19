@@ -7523,3 +7523,10 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 17:26:45.713] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
 [19Sep2025 17:26:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Give Him The Hook]
 [19Sep2025 17:31:45.739] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:36:45.494] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 17:36:45.494] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 17:36:45.495] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[19Sep2025 17:36:45.495] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[19Sep2025 17:36:45.763] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:41:45.763] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:43:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [This Looks Edible]
