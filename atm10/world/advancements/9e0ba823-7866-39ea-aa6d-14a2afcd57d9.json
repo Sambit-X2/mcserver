@@ -187,6 +187,31 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-09-19 17:52:59 +0000",
+      "axe": "2025-09-19 17:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-19 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-09-19 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-09-19 17:54:47 +0000"
+    },
+    "done": true
+  },
   "exdeorum:core/crook": {
     "criteria": {
       "craft_crook": "2025-09-19 17:26:55 +0000"

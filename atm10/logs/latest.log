@@ -7535,3 +7535,12 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 17:46:45.514] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [2/10]
 [19Sep2025 17:46:45.514] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
 [19Sep2025 17:46:45.813] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:51:45.814] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:53:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Stone Age]
+[19Sep2025 17:54:47.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Ka-chink! 1]
+[19Sep2025 17:55:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [That Goes in the GreenWaste]
+[19Sep2025 17:56:45.563] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 17:56:45.564] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 17:56:45.564] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [5/10]
+[19Sep2025 17:56:45.564] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[19Sep2025 17:56:45.864] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
