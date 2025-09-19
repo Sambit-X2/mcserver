@@ -7546,3 +7546,11 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 15:34:23.019] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
 [19Sep2025 15:34:23.019] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
 [19Sep2025 15:34:23.020] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 462
+[19Sep2025 15:39:16.468] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:44:16.468] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:44:23.068] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 15:44:23.068] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 15:44:23.068] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[19Sep2025 15:44:23.068] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 15:44:23.069] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[19Sep2025 15:44:23.069] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 437
