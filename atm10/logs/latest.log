@@ -7594,3 +7594,23 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 16:21:16.210] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{_Sammon_} with UUID 9e0ba823-7866-39ea-aa6d-14a2afcd57d9.
 [19Sep2025 16:21:16.257] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (0 unused), uncached profiles: 0, total profiles: 2
 [19Sep2025 16:21:21.228] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: _Sammon_
+[19Sep2025 16:24:16.768] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [3/10]
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[19Sep2025 16:24:23.268] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[19Sep2025 16:24:23.269] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[19Sep2025 16:24:23.269] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 387
+[19Sep2025 16:25:44.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Troy[/127.0.0.1:58690] logged in with entity id 26 at (14.5, 77.0, 35.5)
+[19Sep2025 16:25:44.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troy joined the game
+[19Sep2025 16:25:44.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troy has made the advancement [Don't Look Down...]
+[19Sep2025 16:25:44.542] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Troy} with UUID 956a8bcb-4881-3248-90c6-8d3e78bff8d8.
+[19Sep2025 16:25:44.565] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (1 unused), uncached profiles: 0, total profiles: 2
+[19Sep2025 16:25:44.565] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time Troy joined. Putting into spawn team.
+[19Sep2025 16:25:47.988] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Troy
+[19Sep2025 16:27:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Troy: Successfully joined team Hmm.]
+[19Sep2025 16:27:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Sammon_: Home sweet home]
+[19Sep2025 16:29:16.769] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
