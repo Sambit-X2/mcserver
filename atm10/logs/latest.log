@@ -6880,3 +6880,642 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Sep2025 15:03:46.118] [main/INFO] [KubeJS Server/]: server_scripts:Unification/sawing.js#76: Ingredient is not a log tag: {"item":"allthecompressed:cherry_planks_1x"}
 [19Sep2025 15:03:46.119] [main/INFO] [KubeJS Server/]: server_scripts:Unification/sawing.js#76: Ingredient is not a log tag: {"item":"allthecompressed:dark_oak_planks_1x"}
 [19Sep2025 15:03:46.200] [main/INFO] [KubeJS/]: Added bindings for script type STARTUP from mod 'almostunified': [AlmostUnified]
+[19Sep2025 15:03:58.921] [main/INFO] [KubeJS Server/]: Posted recipe events in 13.008 s
+[19Sep2025 15:03:59.002] [main/INFO] [KubeJS Server/]: KubeJS modifications to recipe manager finished in 81.13 ms
+[19Sep2025 15:03:59.004] [main/INFO] [Iron Jetpacks/]: Loaded 14 jetpack type(s) in 1 ms
+[19Sep2025 15:03:59.008] [main/INFO] [Extended Crafting/]: Loaded 19 singularity type(s) in 1 ms
+[19Sep2025 15:03:59.009] [main/INFO] [Cucumber Library/]: Registered 71 recipes in 6 ms
+[19Sep2025 15:03:59.029] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:silver_from_smelting_silver_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.196] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:uranium_from_smelting_uranium_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.261] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:sapphire_from_smelting_sapphire_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.263] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:ruby_from_smelting_ruby_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.496] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:black_quartz_from_smelting_black_quartz_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.522] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:tin_from_smelting_tin_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.566] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:topaz_from_smelting_topaz_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.633] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:nickel_from_smelting_nickel_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.741] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:platinum_from_smelting_platinum_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.774] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:zinc_from_smelting_zinc_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.783] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:osmium_from_smelting_osmium_shard. Reason: The result item is empty.
+[19Sep2025 15:03:59.905] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:lead_from_smelting_lead_shard. Reason: The result item is empty.
+[19Sep2025 15:04:00.027] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:uraninite_from_smelting_uraninite_shard. Reason: The result item is empty.
+[19Sep2025 15:04:00.152] [main/WARN] [net.minecraft.world.item.crafting.RecipeManager/]: [EnderIO] Unable to inherit the cooking recipe with ID: geore:aluminum_from_smelting_aluminum_shard. Reason: The result item is empty.
+[19Sep2025 15:04:00.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 47977 recipes
+[19Sep2025 15:04:00.237] [main/INFO] [KubeJS Server/]: Added 769 recipes, removed 651 recipes, modified 109 recipes, with 0 failed recipes taking 18.931 s in total
+[19Sep2025 15:04:01.206] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1223 advancements
+[19Sep2025 15:04:01.261] [main/INFO] [Curios API/]: Loaded 18 curio slots
+[19Sep2025 15:04:01.271] [main/ERROR] [Curios API/]: example is not a registered slot type!
+[19Sep2025 15:04:01.271] [main/ERROR] [Curios API/]: feet is not a registered slot type!
+[19Sep2025 15:04:01.273] [main/INFO] [Curios API/]: Loaded 2 curio entities
+[19Sep2025 15:04:01.281] [main/INFO] [Supplementaries/]: Loaded 28 flute songs
+[19Sep2025 15:04:01.297] [main/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[19Sep2025 15:04:01.298] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:accelerate" in pack "mod/silentgear"
+[19Sep2025 15:04:01.299] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:adamant" in pack "mod/silentgear"
+[19Sep2025 15:04:01.299] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:advanced_aquatic" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.299] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:advanced_flame_ward" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.300] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:ancient" in pack "mod/silentgear"
+[19Sep2025 15:04:01.300] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:aquatic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.300] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:barrier_jacket" in pack "mod/silentgems"
+[19Sep2025 15:04:01.300] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bastion" in pack "mod/silentgear"
+[19Sep2025 15:04:01.302] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bending" in pack "mod/silentgear"
+[19Sep2025 15:04:01.302] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:booster" in pack "mod/silentgems"
+[19Sep2025 15:04:01.303] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bounce" in pack "mod/silentgear"
+[19Sep2025 15:04:01.303] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:brilliant" in pack "mod/silentgear"
+[19Sep2025 15:04:01.303] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:brittle" in pack "mod/silentgear"
+[19Sep2025 15:04:01.303] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bulky" in pack "mod/silentgear"
+[19Sep2025 15:04:01.304] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:chilled" in pack "mod/silentgear"
+[19Sep2025 15:04:01.304] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:chipping" in pack "mod/silentgear"
+[19Sep2025 15:04:01.304] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:cloaking" in pack "mod/silentgems"
+[19Sep2025 15:04:01.304] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:confetti" in pack "mod/silentgear"
+[19Sep2025 15:04:01.304] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crackler" in pack "mod/silentgear"
+[19Sep2025 15:04:01.305] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:critical_strike" in pack "mod/silentgems"
+[19Sep2025 15:04:01.305] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crude" in pack "mod/silentgear"
+[19Sep2025 15:04:01.306] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crushing" in pack "mod/silentgear"
+[19Sep2025 15:04:01.306] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_levitation" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.306] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_nausea" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.306] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_poison" in pack "mod/silentgear"
+[19Sep2025 15:04:01.307] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_wither" in pack "mod/silentgear"
+[19Sep2025 15:04:01.307] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cursed" in pack "mod/silentgear"
+[19Sep2025 15:04:01.307] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:dulling" in pack "mod/silentgear"
+[19Sep2025 15:04:01.308] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:enderbane" in pack "mod/silentgems"
+[19Sep2025 15:04:01.309] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:eroded" in pack "mod/silentgear"
+[19Sep2025 15:04:01.309] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:fiery" in pack "mod/silentgear"
+[19Sep2025 15:04:01.309] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:fireproof" in pack "mod/silentgear"
+[19Sep2025 15:04:01.310] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flame_ward" in pack "mod/silentgear"
+[19Sep2025 15:04:01.310] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flammable" in pack "mod/silentgear"
+[19Sep2025 15:04:01.310] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flexible" in pack "mod/silentgear"
+[19Sep2025 15:04:01.310] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:floatstoner" in pack "mod/silentgear"
+[19Sep2025 15:04:01.310] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flutter" in pack "mod/silentgear"
+[19Sep2025 15:04:01.311] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:fortunate" in pack "mod/silentgear"
+[19Sep2025 15:04:01.312] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:fractal" in pack "mod/silentgems"
+[19Sep2025 15:04:01.312] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:freeze_resistant" in pack "mod/silentgems"
+[19Sep2025 15:04:01.313] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:gold_digger" in pack "mod/silentgear"
+[19Sep2025 15:04:01.313] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:greedy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.313] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:hard" in pack "mod/silentgear"
+[19Sep2025 15:04:01.314] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:hasty" in pack "mod/silentgems"
+[19Sep2025 15:04:01.314] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:hearty" in pack "mod/silentgems"
+[19Sep2025 15:04:01.314] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:heat_resistant" in pack "mod/silentgear"
+[19Sep2025 15:04:01.315] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:heavy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.315] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:holy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.315] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:ignite" in pack "mod/silentgear"
+[19Sep2025 15:04:01.315] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:imperial" in pack "mod/silentgear"
+[19Sep2025 15:04:01.316] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:indestructible" in pack "mod/silentgear"
+[19Sep2025 15:04:01.316] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:jabberwocky" in pack "mod/silentgear"
+[19Sep2025 15:04:01.316] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:jagged" in pack "mod/silentgear"
+[19Sep2025 15:04:01.316] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:kitty_vision" in pack "mod/silentgear"
+[19Sep2025 15:04:01.316] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:leaping" in pack "mod/silentgems"
+[19Sep2025 15:04:01.317] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:light" in pack "mod/silentgear"
+[19Sep2025 15:04:01.317] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:lucky" in pack "mod/silentgear"
+[19Sep2025 15:04:01.318] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:lustrous" in pack "mod/silentgear"
+[19Sep2025 15:04:01.318] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:magmatic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.318] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:magnetic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.319] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:malleable" in pack "mod/silentgear"
+[19Sep2025 15:04:01.319] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:mighty" in pack "mod/silentgear"
+[19Sep2025 15:04:01.319] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:moonwalker" in pack "mod/silentgear"
+[19Sep2025 15:04:01.320] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:multi_break" in pack "mod/silentgear"
+[19Sep2025 15:04:01.320] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:neptunes_blessing" in pack "mod/silentgems"
+[19Sep2025 15:04:01.321] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:organic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.321] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:power" in pack "mod/silentgems"
+[19Sep2025 15:04:01.321] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:racker" in pack "mod/silentgear"
+[19Sep2025 15:04:01.322] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:reach" in pack "mod/silentgear"
+[19Sep2025 15:04:01.322] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:red_card" in pack "mod/silentgear"
+[19Sep2025 15:04:01.322] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:refractive" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:renew" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:road_maker" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:rustic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:sharp" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:silky" in pack "mod/silentgear"
+[19Sep2025 15:04:01.323] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:snow_walker" in pack "mod/silentgear"
+[19Sep2025 15:04:01.324] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:soft" in pack "mod/silentgear"
+[19Sep2025 15:04:01.324] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:spoon" in pack "mod/silentgear"
+[19Sep2025 15:04:01.324] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:stellar" in pack "mod/silentgear"
+[19Sep2025 15:04:01.324] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:step_up" in pack "mod/silentgems"
+[19Sep2025 15:04:01.324] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:sting_resist" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.325] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:sturdy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.325] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:swift_swim" in pack "mod/silentgear"
+[19Sep2025 15:04:01.326] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:synergistic" in pack "mod/silentgear"
+[19Sep2025 15:04:01.326] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:terminus" in pack "mod/silentgear"
+[19Sep2025 15:04:01.326] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:turtle" in pack "mod/silentgear"
+[19Sep2025 15:04:01.326] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgems:twinkletoes" in pack "mod/silentgems"
+[19Sep2025 15:04:01.327] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:venom" in pack "mod/silentgear"
+[19Sep2025 15:04:01.327] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:void_ward" in pack "mod/silentgear"
+[19Sep2025 15:04:01.328] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:vulcan" in pack "mod/silentgear"
+[19Sep2025 15:04:01.328] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:widen" in pack "mod/silentgear"
+[19Sep2025 15:04:01.328] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:wind_blast" in pack "mod/silentgear"
+[19Sep2025 15:04:01.329] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:yummy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.329] [main/INFO] [Silent Gear/TraitManager]: Decoded 94 traits
+[19Sep2025 15:04:01.337] [main/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[19Sep2025 15:04:01.338] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:alexandrite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.344] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:allthemodium" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.346] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:aluminum" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.347] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:aluminum_steel" in pack "mod/silentgear"
+[19Sep2025 15:04:01.348] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:amethyst" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.349] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:ammolite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.350] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:aquamarine" in pack "mod/silentgems"
+[19Sep2025 15:04:01.352] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:azure_electrum" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.353] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:azure_silver" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.354] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bamboo" in pack "mod/silentgear"
+[19Sep2025 15:04:01.354] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:barrier" in pack "mod/silentgear"
+[19Sep2025 15:04:01.355] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:basalt" in pack "mod/silentgear"
+[19Sep2025 15:04:01.357] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth" in pack "mod/silentgear"
+[19Sep2025 15:04:01.359] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth_brass" in pack "mod/silentgear"
+[19Sep2025 15:04:01.360] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth_steel" in pack "mod/silentgear"
+[19Sep2025 15:04:01.361] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:black_diamond" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.365] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blackstone" in pack "mod/silentgear"
+[19Sep2025 15:04:01.365] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blaze_gold" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.366] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blaze_rod" in pack "mod/silentgear"
+[19Sep2025 15:04:01.366] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bone" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.367] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:brass" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.370] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:breeze_rod" in pack "mod/silentgear"
+[19Sep2025 15:04:01.371] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bronze" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.371] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:carnelian" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.371] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:citrine" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.372] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:compressed_iron" in pack "mod/silentgear"
+[19Sep2025 15:04:01.372] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:copper" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.373] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:crimson_iron" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.373] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:crimson_steel" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.377] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:crushed_shulker_shell" in pack "mod/silentgear"
+[19Sep2025 15:04:01.378] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:diamond" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.378] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:dimerald" in pack "mod/silentgear"
+[19Sep2025 15:04:01.380] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:electrum" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.380] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:emerald" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.381] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:end_rod" in pack "mod/silentgear"
+[19Sep2025 15:04:01.382] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:end_stone" in pack "mod/silentgear"
+[19Sep2025 15:04:01.383] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:enderium" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.383] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:example" in pack "mod/silentgear"
+[19Sep2025 15:04:01.384] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:feather" in pack "mod/silentgear"
+[19Sep2025 15:04:01.384] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fine_silk" in pack "mod/silentgear"
+[19Sep2025 15:04:01.385] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fine_silk_cloth" in pack "mod/silentgear"
+[19Sep2025 15:04:01.385] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:flax" in pack "mod/silentgear"
+[19Sep2025 15:04:01.386] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:flint" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.387] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fluffy_string" in pack "mod/silentgear"
+[19Sep2025 15:04:01.387] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:garnet" in pack "mod/silentgems"
+[19Sep2025 15:04:01.388] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:glowstone" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.388] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:gold" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.389] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:heliodor" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.390] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:high_carbon_steel" in pack "mod/silentgear"
+[19Sep2025 15:04:01.390] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:hybrid_gem" in pack "mod/silentgear"
+[19Sep2025 15:04:01.391] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:invar" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.391] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:iolite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.392] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:iron" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.392] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:kyanite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.393] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lapis_lazuli" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.393] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lead" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.394] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:leather" in pack "mod/silentgear"
+[19Sep2025 15:04:01.394] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:leaves" in pack "mod/silentgear"
+[19Sep2025 15:04:01.394] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lumium" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.397] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "sgearmetalworks:meat" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.397] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:metal_alloy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.397] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:mixed_fabric" in pack "mod/silentgear"
+[19Sep2025 15:04:01.397] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:moldavite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.398] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherite" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.398] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherrack" in pack "mod/silentgear"
+[19Sep2025 15:04:01.399] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherwood" in pack "mod/silentgear"
+[19Sep2025 15:04:01.399] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:nickel" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.399] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:obsidian" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.400] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:opal" in pack "mod/silentgems"
+[19Sep2025 15:04:01.400] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:osmium" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.401] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:paper" in pack "mod/silentgear"
+[19Sep2025 15:04:01.401] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:pearl" in pack "mod/silentgems"
+[19Sep2025 15:04:01.401] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:peridot" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.402] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:phantom_membrane" in pack "mod/silentgear"
+[19Sep2025 15:04:01.402] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:platinum" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.403] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:prismarine" in pack "mod/silentgear"
+[19Sep2025 15:04:01.404] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:quartz" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.409] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:redstone" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.409] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:redstone_alloy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.410] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_glowstone" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.411] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_iron" in pack "mod/silentgear"
+[19Sep2025 15:04:01.414] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_obsidian" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.414] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:reinforced_gold" in pack "mod/silentgems"
+[19Sep2025 15:04:01.414] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:reinforced_silver" in pack "mod/silentgems"
+[19Sep2025 15:04:01.415] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:rose_quartz" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.415] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:ruby" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.416] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sandstone" in pack "mod/silentgear"
+[19Sep2025 15:04:01.418] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sandstone/red" in pack "mod/silentgear"
+[19Sep2025 15:04:01.418] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:sapphire" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.419] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sheet_metal" in pack "mod/silentgear"
+[19Sep2025 15:04:01.419] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:signalum" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.420] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:silver" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.420] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sinew" in pack "mod/silentgear"
+[19Sep2025 15:04:01.420] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:slime" in pack "mod/silentgear"
+[19Sep2025 15:04:01.421] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:steel" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.424] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone" in pack "mod/silentgear"
+[19Sep2025 15:04:01.425] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/andesite" in pack "mod/silentgear"
+[19Sep2025 15:04:01.425] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/diorite" in pack "mod/silentgear"
+[19Sep2025 15:04:01.425] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/granite" in pack "mod/silentgear"
+[19Sep2025 15:04:01.425] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:string" in pack "mod/silentgear"
+[19Sep2025 15:04:01.426] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:super_alloy" in pack "mod/silentgear"
+[19Sep2025 15:04:01.426] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:tanzanite" in pack "mod/silentgems"
+[19Sep2025 15:04:01.426] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta" in pack "mod/silentgear"
+[19Sep2025 15:04:01.427] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/black" in pack "mod/silentgear"
+[19Sep2025 15:04:01.427] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/blue" in pack "mod/silentgear"
+[19Sep2025 15:04:01.427] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/brown" in pack "mod/silentgear"
+[19Sep2025 15:04:01.427] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/cyan" in pack "mod/silentgear"
+[19Sep2025 15:04:01.428] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/gray" in pack "mod/silentgear"
+[19Sep2025 15:04:01.428] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/green" in pack "mod/silentgear"
+[19Sep2025 15:04:01.428] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/light_blue" in pack "mod/silentgear"
+[19Sep2025 15:04:01.428] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/light_gray" in pack "mod/silentgear"
+[19Sep2025 15:04:01.431] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/lime" in pack "mod/silentgear"
+[19Sep2025 15:04:01.431] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/magenta" in pack "mod/silentgear"
+[19Sep2025 15:04:01.431] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/orange" in pack "mod/silentgear"
+[19Sep2025 15:04:01.432] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/pink" in pack "mod/silentgear"
+[19Sep2025 15:04:01.432] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/purple" in pack "mod/silentgear"
+[19Sep2025 15:04:01.432] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/red" in pack "mod/silentgear"
+[19Sep2025 15:04:01.432] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/white" in pack "mod/silentgear"
+[19Sep2025 15:04:01.435] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/yellow" in pack "mod/silentgear"
+[19Sep2025 15:04:01.435] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:tin" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.436] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:titanium" in pack "mod/silentgear"
+[19Sep2025 15:04:01.436] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:topaz" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.437] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:turquoise" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.437] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:turtle" in pack "mod/silentgear"
+[19Sep2025 15:04:01.437] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:tyrian_steel" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.440] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:unobtainium" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.441] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:uranium" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.445] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "sgearmetalworks:uru_metal" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.446] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:vibranium" in pack "KubeJS File Resource Pack [data]"
+[19Sep2025 15:04:01.446] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:vine" in pack "mod/silentgear"
+[19Sep2025 15:04:01.446] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgems:white_diamond" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.447] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood" in pack "mod/silentgear"
+[19Sep2025 15:04:01.447] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/acacia" in pack "mod/silentgear"
+[19Sep2025 15:04:01.449] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/birch" in pack "mod/silentgear"
+[19Sep2025 15:04:01.449] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/crimson" in pack "mod/silentgear"
+[19Sep2025 15:04:01.450] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/dark_oak" in pack "mod/silentgear"
+[19Sep2025 15:04:01.450] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/jungle" in pack "mod/silentgear"
+[19Sep2025 15:04:01.451] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/oak" in pack "mod/silentgear"
+[19Sep2025 15:04:01.451] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/rough" in pack "mod/silentgear"
+[19Sep2025 15:04:01.452] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/spruce" in pack "mod/silentgear"
+[19Sep2025 15:04:01.452] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/warped" in pack "mod/silentgear"
+[19Sep2025 15:04:01.453] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool" in pack "mod/silentgear"
+[19Sep2025 15:04:01.453] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/black" in pack "mod/silentgear"
+[19Sep2025 15:04:01.454] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/blue" in pack "mod/silentgear"
+[19Sep2025 15:04:01.454] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/brown" in pack "mod/silentgear"
+[19Sep2025 15:04:01.454] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/cyan" in pack "mod/silentgear"
+[19Sep2025 15:04:01.455] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/gray" in pack "mod/silentgear"
+[19Sep2025 15:04:01.455] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/green" in pack "mod/silentgear"
+[19Sep2025 15:04:01.455] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/light_blue" in pack "mod/silentgear"
+[19Sep2025 15:04:01.455] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/light_gray" in pack "mod/silentgear"
+[19Sep2025 15:04:01.456] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/lime" in pack "mod/silentgear"
+[19Sep2025 15:04:01.456] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/magenta" in pack "mod/silentgear"
+[19Sep2025 15:04:01.456] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/orange" in pack "mod/silentgear"
+[19Sep2025 15:04:01.456] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/pink" in pack "mod/silentgear"
+[19Sep2025 15:04:01.456] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/purple" in pack "mod/silentgear"
+[19Sep2025 15:04:01.458] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/red" in pack "mod/silentgear"
+[19Sep2025 15:04:01.458] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/white" in pack "mod/silentgear"
+[19Sep2025 15:04:01.459] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/yellow" in pack "mod/silentgear"
+[19Sep2025 15:04:01.459] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:zinc" in pack "mod/sgearmetalworks"
+[19Sep2025 15:04:01.459] [main/INFO] [Silent Gear/MaterialManager]: Decoded 159 materials
+[19Sep2025 15:04:01.464] [main/INFO] [Silent Gear/PartManager]: Reloading part files
+[19Sep2025 15:04:01.464] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:arrow_heads" in pack "mod/silentgear"
+[19Sep2025 15:04:01.465] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:axe_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.466] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:binding" in pack "mod/silentgear"
+[19Sep2025 15:04:01.467] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:boot_plates" in pack "mod/silentgear"
+[19Sep2025 15:04:01.467] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:bow_limbs" in pack "mod/silentgear"
+[19Sep2025 15:04:01.467] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:bracelet_band" in pack "mod/silentgear"
+[19Sep2025 15:04:01.469] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:chestplate_plates" in pack "mod/silentgear"
+[19Sep2025 15:04:01.469] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:coating" in pack "mod/silentgear"
+[19Sep2025 15:04:01.469] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:cord" in pack "mod/silentgear"
+[19Sep2025 15:04:01.469] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:crossbow_limbs" in pack "mod/silentgear"
+[19Sep2025 15:04:01.469] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:dagger_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.470] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:elytra_wings" in pack "mod/silentgear"
+[19Sep2025 15:04:01.470] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:excavator_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.470] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:fishing_reel_and_hook" in pack "mod/silentgear"
+[19Sep2025 15:04:01.470] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:fletching" in pack "mod/silentgear"
+[19Sep2025 15:04:01.470] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:grip" in pack "mod/silentgear"
+[19Sep2025 15:04:01.471] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:hammer_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.471] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:helmet_plates" in pack "mod/silentgear"
+[19Sep2025 15:04:01.471] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:hoe_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.471] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:katana_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.472] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:knife_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.473] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:legging_plates" in pack "mod/silentgear"
+[19Sep2025 15:04:01.473] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:lining" in pack "mod/silentgear"
+[19Sep2025 15:04:01.474] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:mace_core" in pack "mod/silentgear"
+[19Sep2025 15:04:01.474] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:machete_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.474] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:magnetic_upgrade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.475] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:mattock_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.478] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:necklace_chain" in pack "mod/silentgear"
+[19Sep2025 15:04:01.479] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:paxel_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.479] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:pickaxe_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.479] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:prospector_hammer_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.480] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:red_card_upgrade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.480] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:ring_shank" in pack "mod/silentgear"
+[19Sep2025 15:04:01.481] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:road_maker_upgrade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.481] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:rod" in pack "mod/silentgear"
+[19Sep2025 15:04:01.481] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:saw_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.482] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:setting" in pack "mod/silentgear"
+[19Sep2025 15:04:01.482] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shear_blades" in pack "mod/silentgear"
+[19Sep2025 15:04:01.483] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shield_plate" in pack "mod/silentgear"
+[19Sep2025 15:04:01.483] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shovel_head" in pack "mod/silentgear"
+[19Sep2025 15:04:01.483] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:sickle_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.484] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:slingshot_limbs" in pack "mod/silentgear"
+[19Sep2025 15:04:01.484] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:spear_tip" in pack "mod/silentgear"
+[19Sep2025 15:04:01.484] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:spoon_upgrade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.484] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:sword_blade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.485] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:tip" in pack "mod/silentgear"
+[19Sep2025 15:04:01.485] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:trident_prongs" in pack "mod/silentgear"
+[19Sep2025 15:04:01.485] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:wide_plate_upgrade" in pack "mod/silentgear"
+[19Sep2025 15:04:01.485] [main/INFO] [Silent Gear/PartManager]: Decoded 48 parts
+[19Sep2025 15:04:01.486] [main/INFO] [com.enderio.machines.common.souldata.SoulDataReloadListener/]: Data loader for eio_soul/solar loaded 1 jsons
+[19Sep2025 15:04:01.486] [main/INFO] [com.enderio.machines.common.souldata.SoulDataReloadListener/]: Data loader for eio_soul/spawner loaded 73 jsons
+[19Sep2025 15:04:01.493] [main/INFO] [com.enderio.machines.common.souldata.SoulDataReloadListener/]: Data loader for eio_soul/engine loaded 5 jsons
+[19Sep2025 15:04:01.493] [main/INFO] [rechiseled/]: Loaded 274 chiseling recipes
+[19Sep2025 15:04:01.571] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[19Sep2025 15:04:01.590] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[19Sep2025 15:04:01.670] [main/INFO] [Gateways to Eternity/]: Registered 12 gateways.
+[19Sep2025 15:04:01.684] [main/INFO] [Apotheosis : Enchantment/]: Registered 27 enchanting_stats.
+[19Sep2025 15:04:01.697] [main/INFO] [placebo/]: Registered 31 gear_sets.
+[19Sep2025 15:04:01.700] [main/ERROR] [placebo/]: Failed parsing wanderer_trades file apotheosis:rare_gear/greatplate_of_eternity.
+[19Sep2025 15:04:01.700] [main/ERROR] [placebo/]: Underlying Exception: 
+io.netty.handler.codec.CodecException: Codec failure for type wanderer_trades, message: Failed to get element apothic_enchanting:berserkers_fury missed input: {"apothic_enchanting:berserkers_fury":2} missed input: {"minecraft:enchantments":{"levels":{"apothic_enchanting:berserkers_fury":2,"minecraft:mending":1,"minecraft:projectile_protection":5,"minecraft:protection":5,"minecraft:unbreaking":5}}}
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.makeCodecException(DynamicRegistry.java:468) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23100!/:?]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.lambda$apply$0(DynamicRegistry.java:145) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.apply(DynamicRegistry.java:141) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.apply(DynamicRegistry.java:66) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:69) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:861) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.Main.main(Main.java:204) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:128) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonServerLaunchHandler.runService(CommonServerLaunchHandler.java:32) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%2364!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[19Sep2025 15:04:01.702] [main/INFO] [placebo/]: Registered 35 wanderer_trades.
+[19Sep2025 15:04:01.716] [main/INFO] [hostilenetworks/]: Registered 39 data_models.
+[19Sep2025 15:04:01.717] [main/INFO] [hostilenetworks/]: Registered 5 model_tiers.
+[19Sep2025 15:04:01.723] [main/INFO] [placebo/]: Registered 37 brewing_mixes.
+[19Sep2025 15:04:01.724] [main/INFO] [apotheosis/]: Registered 5 rarities.
+[19Sep2025 15:04:01.732] [main/INFO] [apotheosis/]: Registered 1 rarity_override.
+[19Sep2025 15:04:01.751] [main/INFO] [apotheosis/]: Registered 93 affixes.
+[19Sep2025 15:04:01.752] [main/INFO] [apotheosis/]: Registered 0 extra_gem_bonuses.
+[19Sep2025 15:04:01.753] [main/ERROR] [apotheosis/]: Failed parsing gems file apotheosis:the_nether/inferno.
+[19Sep2025 15:04:01.753] [main/ERROR] [apotheosis/]: Underlying Exception: 
+io.netty.handler.codec.CodecException: Codec failure for type gems, message: Failed to get element apothic_enchanting:berserkers_fury
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.makeCodecException(DynamicRegistry.java:468) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23100!/:?]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.lambda$apply$0(DynamicRegistry.java:145) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.apply(DynamicRegistry.java:141) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at TRANSFORMER/placebo@9.9.1/dev.shadowsoffire.placebo.reload.DynamicRegistry.apply(DynamicRegistry.java:66) ~[Placebo-1.21.1-9.9.1.jar%23662!/:9.9.1]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:69) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.Util.blockUntilDone(Util.java:861) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.Main.main(Main.java:204) ~[server-1.21.1-20240808.144430-srg.jar%23427!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:128) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonServerLaunchHandler.runService(CommonServerLaunchHandler.java:32) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.41.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%2364!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[19Sep2025 15:04:01.761] [main/INFO] [apotheosis/]: Registered 20 gems.
+[19Sep2025 15:04:01.766] [main/INFO] [apotheosis/]: Registered 49 affix_loot_entries.
+[19Sep2025 15:04:01.776] [main/INFO] [apotheosis/]: Registered 23 apothic_invaders.
+[19Sep2025 15:04:01.778] [main/INFO] [apotheosis/]: Registered 9 rogue_spawners.
+[19Sep2025 15:04:01.780] [main/INFO] [apotheosis/]: Registered 4 apothic_elites.
+[19Sep2025 15:04:01.780] [main/INFO] [apotheosis/]: Registered 1 purity_weights.
+[19Sep2025 15:04:01.781] [main/INFO] [apotheosis/]: Registered 1 apothic_augments.
+[19Sep2025 15:04:01.781] [main/INFO] [apotheosis/]: Registered 19 tier_augments.
+[19Sep2025 15:04:01.803] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:enchantment] are present in data pack: forbidden_arcanus:modifier/soulbound_incompatible
+[19Sep2025 15:04:01.845] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: c:incorrect_for_allthemodiumalloy_tool, mysticalagriculture:incorrect_for_awakened_supremium_tool, mysticalagriculture:incorrect_for_imperium_tool, mysticalagriculture:incorrect_for_inferium_tool, mysticalagriculture:incorrect_for_prudentium_tool, mysticalagriculture:incorrect_for_supremium_tool, mysticalagriculture:incorrect_for_tertium_tool, pickletweaks:incorrect_for_emerald_tool, pickletweaks:incorrect_for_flint_tool
+[19Sep2025 15:04:01.900] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: c:valid_geyser_spawn
+[19Sep2025 15:04:02.714] [main/ERROR] [net.neoforged.neoforge.registries.DataMapLoader/]: Object with ID enderio:xpjuice specified in data map for registry minecraft:fluid doesn't exist
+[19Sep2025 15:04:02.714] [main/ERROR] [net.neoforged.neoforge.registries.DataMapLoader/]: Object with ID reliquary:xp_juice_still specified in data map for registry minecraft:fluid doesn't exist
+[19Sep2025 15:04:02.806] [main/INFO] [Supplementaries/]: Registering custom dispenser behaviors
+[19Sep2025 15:04:02.915] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item notenoughwands:protection_wand: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.ItemLike.asItem()" because "p_41601_" is null
+[19Sep2025 15:04:02.922] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item matc:inferium_crystal: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[19Sep2025 15:04:02.923] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item matc:prudentium_crystal: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[19Sep2025 15:04:02.923] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item matc:tertium_crystal: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[19Sep2025 15:04:02.923] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item matc:imperium_crystal: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[19Sep2025 15:04:02.923] [main/WARN] [Supplementaries/]: Error white registering dispenser behavior for item matc:supremium_crystal: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[19Sep2025 15:04:02.948] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
+[19Sep2025 15:04:02.951] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 2 ms
+[19Sep2025 15:04:03.007] [main/WARN] [ModernFix/]: Initial datapack load took 31.91 s
+[19Sep2025 15:04:04.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[19Sep2025 15:04:04.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Sep2025 15:04:04.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Sep2025 15:04:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Sep2025 15:04:04.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 0.0.0.0:25565
+[19Sep2025 15:04:04.677] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Sep2025 15:04:04.707] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Sep2025 15:04:04.707] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Sep2025 15:04:04.708] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Sep2025 15:04:04.708] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Sep2025 15:04:04.719] [Server thread/INFO] [sfm/]: SFM config loaded, now on revision 1
+[19Sep2025 15:04:04.728] [Server thread/INFO] [Puzzles Lib/]: Dispatching loading event for config spikyspikes-server.toml
+[19Sep2025 15:04:04.774] [Server thread/WARN] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Configuration file /workspaces/mcserver/atm10/config/ars_caelum-server.toml is not correct. Correcting
+[19Sep2025 15:04:04.797] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 0 block entries, 0 item entries
+[19Sep2025 15:04:04.886] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[19Sep2025 15:04:05.016] [Server thread/INFO] [spark/]: Starting background profiler...
+[19Sep2025 15:04:05.274] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Starting locating executor service with thread pool size of 1
+[19Sep2025 15:04:05.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Sep2025 15:04:05.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Sep2025 15:04:05.719] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in lithium.mixins.json:collections.chunk_tickets.SortedArraySetMixin from mod lithium, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[19Sep2025 15:04:05.724] [Server thread/INFO] [KubeJS/]: Added bindings for script type SERVER from mod 'almostunified': [AlmostUnified]
+[19Sep2025 15:04:05.725] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[19Sep2025 15:04:07.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 15:04:07.644] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 15:04:07.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 15:04:07.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 15:04:07.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[19Sep2025 15:04:07.795] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2079 ms
+[19Sep2025 15:04:07.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.080s)! For help, type "help"
+[19Sep2025 15:04:07.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting GS4 status listener
+[19Sep2025 15:04:07.808] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener started
+[19Sep2025 15:04:07.808] [Query Listener #1/INFO] [net.minecraft.server.rcon.thread.QueryThreadGs4/]: Query running on 0.0.0.0:25565
+[19Sep2025 15:04:08.169] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[19Sep2025 15:04:08.233] [Server thread/INFO] [Observable/]: Registered thread Server thread
+[19Sep2025 15:04:08.237] [Server thread/INFO] [FTB Quests/]: Loading quests from /workspaces/mcserver/atm10/config/ftbquests/quests
+[19Sep2025 15:04:08.502] [Server thread/INFO] [dev.uncandango.ftbquestslangsplitter.FTBQuestsLangSplitter/]: loaded translation tables for 3 language(s)
+[19Sep2025 15:04:08.535] [Server thread/ERROR] [FTB Library/]: Failed to read /workspaces/mcserver/atm10/config/ftbquests/quests/chapters/basic_tools.snbt: Expected ':', got '"' @ 1178:74
+[19Sep2025 15:04:08.790] [Server thread/INFO] [FTB Quests/]: Loaded 6 chapter groups, 46 chapters, 3079 quests, 46 reward tables
+[19Sep2025 15:04:08.802] [Server thread/INFO] [FTB Ranks/]: Loaded 3 ranks
+[19Sep2025 15:04:11.960] [Server thread/INFO] [Silent Gear/]: Traits loaded: 94
+[19Sep2025 15:04:11.960] [Server thread/INFO] [Silent Gear/]: Parts loaded: 48
+[19Sep2025 15:04:11.961] [Server thread/INFO] [Silent Gear/]: - Compound: 48
+[19Sep2025 15:04:11.962] [Server thread/INFO] [Silent Gear/]: - Simple: 0
+[19Sep2025 15:04:11.962] [Server thread/INFO] [Silent Gear/]: Materials loaded: 159
+[19Sep2025 15:04:11.963] [Server thread/INFO] [Silent Gear/]: - Standard: 152
+[19Sep2025 15:04:12.011] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Successfully loaded Skyblock!
+[19Sep2025 15:04:12.081] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "simple_life" from "simple_life.nbt".
+[19Sep2025 15:04:12.098] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "witch_cottage" from "witch_cottage.nbt".
+[19Sep2025 15:04:12.099] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "default" from "default.nbt".
+[19Sep2025 15:04:12.166] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "sanguine sanctuary" from "sanguine sanctuary.nbt".
+[19Sep2025 15:04:12.200] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "steve's staycation" from "steve's staycation.nbt".
+[19Sep2025 15:04:12.202] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "piggy" from "piggy.nbt".
+[19Sep2025 15:04:12.202] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "skyfactory" from "skyfactory.nbt".
+[19Sep2025 15:04:12.296] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (0 unused), uncached profiles: 0, total profiles: 1
+[19Sep2025 15:04:12.301] [Server thread/INFO] [integrateddynamics/]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[19Sep2025 15:04:12.408] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[19Sep2025 15:04:15.640] [Server thread/INFO] [gripe._90.megacells.misc.CompressionService/]: Initialised bulk compression. 696 compression chains gathered.
+[19Sep2025 15:04:15.817] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[19Sep2025 15:04:15.998] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_scythe, missing knowledge for {1 mysticalagriculture:diamond_scythe=1.0}
+[19Sep2025 15:04:15.998] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_boots, missing knowledge for {1 mysticalagriculture:prudentium_boots=1.0}
+[19Sep2025 15:04:15.998] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_boots, missing knowledge for {1 mysticalagriculture:imperium_boots=1.0}
+[19Sep2025 15:04:15.998] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sword, missing knowledge for {1 mysticalagriculture:tertium_sword=1.0}
+[19Sep2025 15:04:15.998] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 ironjetpacks:jetpack, missing knowledge for {1 ironjetpacks:jetpack=1.0}
+[19Sep2025 15:04:15.999] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_axe, missing knowledge for {1 mysticalagriculture:prudentium_axe=1.0}
+[19Sep2025 15:04:15.999] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_axe, missing knowledge for {1 mysticalagriculture:tertium_axe=1.0}
+[19Sep2025 15:04:15.999] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_scythe, missing knowledge for {1 mysticalagriculture:tertium_scythe=1.0}
+[19Sep2025 15:04:15.999] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sickle, missing knowledge for {1 mysticalagriculture:inferium_sickle=1.0}
+[19Sep2025 15:04:15.999] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_helmet, missing knowledge for {1 minecraft:leather_helmet=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_leggings, missing knowledge for {1 minecraft:diamond_leggings=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_hoe, missing knowledge for {1 mysticalagriculture:imperium_hoe=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_leggings, missing knowledge for {1 mysticalagriculture:prudentium_leggings=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_leggings, missing knowledge for {1 minecraft:leather_leggings=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_helmet, missing knowledge for {1 mysticalagriculture:inferium_helmet=1.0}
+[19Sep2025 15:04:16.000] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_scythe, missing knowledge for {1 mysticalagriculture:prudentium_scythe=1.0}
+[19Sep2025 15:04:16.001] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sword, missing knowledge for {1 mysticalagriculture:prudentium_sword=1.0}
+[19Sep2025 15:04:16.001] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_boots, missing knowledge for {1 mysticalagriculture:tertium_boots=1.0}
+[19Sep2025 15:04:16.001] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sickle, missing knowledge for {1 mysticalagriculture:tertium_sickle=1.0}
+[19Sep2025 15:04:16.001] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_chestplate, missing knowledge for {1 minecraft:leather_chestplate=1.0}
+[19Sep2025 15:04:16.001] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_helmet, missing knowledge for {1 minecraft:diamond_helmet=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_scythe, missing knowledge for {1 mysticalagriculture:inferium_scythe=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_leggings, missing knowledge for {1 mysticalagriculture:inferium_leggings=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_boots, missing knowledge for {1 mysticalagriculture:inferium_boots=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_chestplate, missing knowledge for {1 mysticalagriculture:prudentium_chestplate=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sword, missing knowledge for {1 mysticalagriculture:inferium_sword=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_chestplate, missing knowledge for {1 mysticalagriculture:imperium_chestplate=1.0}
+[19Sep2025 15:04:16.002] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_axe, missing knowledge for {1 mysticalagriculture:imperium_axe=1.0}
+[19Sep2025 15:04:16.003] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sword, missing knowledge for {1 minecraft:diamond_sword=1.0}
+[19Sep2025 15:04:16.003] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_leggings, missing knowledge for {1 mysticalagriculture:tertium_leggings=1.0}
+[19Sep2025 15:04:16.003] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_chestplate, missing knowledge for {1 minecraft:diamond_chestplate=1.0}
+[19Sep2025 15:04:16.003] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_shovel, missing knowledge for {1 mysticalagriculture:imperium_shovel=1.0}
+[19Sep2025 15:04:16.003] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_scythe, missing knowledge for {1 mysticalagriculture:imperium_scythe=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_helmet, missing knowledge for {1 mysticalagriculture:imperium_helmet=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_hoe, missing knowledge for {1 mysticalagriculture:inferium_hoe=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_pickaxe, missing knowledge for {1 minecraft:diamond_pickaxe=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_shovel, missing knowledge for {1 minecraft:diamond_shovel=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_pickaxe, missing knowledge for {1 mysticalagriculture:tertium_pickaxe=1.0}
+[19Sep2025 15:04:16.004] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_shovel, missing knowledge for {1 mysticalagriculture:prudentium_shovel=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sickle, missing knowledge for {1 mysticalagriculture:imperium_sickle=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_boots, missing knowledge for {1 minecraft:diamond_boots=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sickle, missing knowledge for {1 mysticalagriculture:prudentium_sickle=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_boots, missing knowledge for {1 minecraft:leather_boots=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:pneumatic_leggings, missing knowledge for {1 pneumaticcraft:compressed_iron_leggings=1.0}
+[19Sep2025 15:04:16.005] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_axe, missing knowledge for {1 minecraft:diamond_axe=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sword, missing knowledge for {1 mysticalagriculture:imperium_sword=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_leggings, missing knowledge for {1 mysticalagriculture:imperium_leggings=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_hoe, missing knowledge for {1 minecraft:diamond_hoe=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_chestplate, missing knowledge for {1 mysticalagriculture:inferium_chestplate=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mekanism:free_runners_armored, missing knowledge for {1 mekanism:free_runners=1.0}
+[19Sep2025 15:04:16.006] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sickle, missing knowledge for {1 mysticalagriculture:diamond_sickle=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_shovel, missing knowledge for {1 mysticalagriculture:tertium_shovel=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_helmet, missing knowledge for {1 mysticalagriculture:tertium_helmet=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 oritech:exo_jetpack, missing knowledge for {1 oritech:exo_chestplate=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_hoe, missing knowledge for {1 mysticalagriculture:tertium_hoe=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_axe, missing knowledge for {1 mysticalagriculture:inferium_axe=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_chestplate, missing knowledge for {1 mysticalagriculture:tertium_chestplate=1.0}
+[19Sep2025 15:04:16.007] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_pickaxe, missing knowledge for {1 mysticalagriculture:imperium_pickaxe=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_hoe, missing knowledge for {1 mysticalagriculture:prudentium_hoe=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_pickaxe, missing knowledge for {1 mysticalagriculture:inferium_pickaxe=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_pickaxe, missing knowledge for {1 mysticalagriculture:prudentium_pickaxe=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_helmet, missing knowledge for {1 mysticalagriculture:prudentium_helmet=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_shovel, missing knowledge for {1 mysticalagriculture:inferium_shovel=1.0}
+[19Sep2025 15:04:16.008] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 189 milliseconds
+[19Sep2025 15:04:16.106] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_helmet, missing knowledge for {1 mysticalagriculture:inferium_helmet=1.0}
+[19Sep2025 15:04:16.106] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 ironjetpacks:jetpack, missing knowledge for {1 ironjetpacks:jetpack=1.0}
+[19Sep2025 15:04:16.106] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_hoe, missing knowledge for {1 mysticalagriculture:tertium_hoe=1.0}
+[19Sep2025 15:04:16.106] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_helmet, missing knowledge for {1 mysticalagriculture:prudentium_helmet=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_chestplate, missing knowledge for {1 mysticalagriculture:inferium_chestplate=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_pickaxe, missing knowledge for {1 mysticalagriculture:imperium_pickaxe=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_scythe, missing knowledge for {1 mysticalagriculture:prudentium_scythe=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_scythe, missing knowledge for {1 mysticalagriculture:imperium_scythe=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sickle, missing knowledge for {1 mysticalagriculture:prudentium_sickle=1.0}
+[19Sep2025 15:04:16.107] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 oritech:jetpack_exo_elytra, missing knowledge for {1 oritech:exo_chestplate=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_chestplate, missing knowledge for {1 mysticalagriculture:tertium_chestplate=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sword, missing knowledge for {1 mysticalagriculture:tertium_sword=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_boots, missing knowledge for {1 mysticalagriculture:prudentium_boots=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_pickaxe, missing knowledge for {1 minecraft:diamond_pickaxe=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_hoe, missing knowledge for {1 mysticalagriculture:inferium_hoe=1.0}
+[19Sep2025 15:04:16.108] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_shovel, missing knowledge for {1 minecraft:diamond_shovel=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_scythe, missing knowledge for {1 mysticalagriculture:diamond_scythe=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_axe, missing knowledge for {1 mysticalagriculture:tertium_axe=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_shovel, missing knowledge for {1 mysticalagriculture:tertium_shovel=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_boots, missing knowledge for {1 mysticalagriculture:inferium_boots=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_hoe, missing knowledge for {1 mysticalagriculture:imperium_hoe=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sickle, missing knowledge for {1 mysticalagriculture:tertium_sickle=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_leggings, missing knowledge for {1 minecraft:diamond_leggings=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sword, missing knowledge for {1 mysticalagriculture:prudentium_sword=1.0}
+[19Sep2025 15:04:16.109] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_boots, missing knowledge for {1 mysticalagriculture:imperium_boots=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sickle, missing knowledge for {1 mysticalagriculture:imperium_sickle=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 oritech:exo_jetpack, missing knowledge for {1 oritech:exo_chestplate=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_helmet, missing knowledge for {1 minecraft:diamond_helmet=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sword, missing knowledge for {1 mysticalagriculture:inferium_sword=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_chestplate, missing knowledge for {1 minecraft:diamond_chestplate=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_boots, missing knowledge for {1 minecraft:diamond_boots=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_chestplate, missing knowledge for {1 minecraft:leather_chestplate=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_shovel, missing knowledge for {1 mysticalagriculture:prudentium_shovel=1.0}
+[19Sep2025 15:04:16.110] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_axe, missing knowledge for {1 mysticalagriculture:imperium_axe=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_hoe, missing knowledge for {1 minecraft:diamond_hoe=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_chestplate, missing knowledge for {1 mysticalagriculture:prudentium_chestplate=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_axe, missing knowledge for {1 mysticalagriculture:prudentium_axe=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_axe, missing knowledge for {1 mysticalagriculture:inferium_axe=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_leggings, missing knowledge for {1 mysticalagriculture:prudentium_leggings=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_helmet, missing knowledge for {1 mysticalagriculture:imperium_helmet=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_pickaxe, missing knowledge for {1 mysticalagriculture:inferium_pickaxe=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_helmet, missing knowledge for {1 mysticalagriculture:tertium_helmet=1.0}
+[19Sep2025 15:04:16.111] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sickle, missing knowledge for {1 mysticalagriculture:inferium_sickle=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_leggings, missing knowledge for {1 mysticalagriculture:imperium_leggings=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sword, missing knowledge for {1 mysticalagriculture:imperium_sword=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_scythe, missing knowledge for {1 mysticalagriculture:inferium_scythe=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_shovel, missing knowledge for {1 mysticalagriculture:inferium_shovel=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_pickaxe, missing knowledge for {1 mysticalagriculture:tertium_pickaxe=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_boots, missing knowledge for {1 mysticalagriculture:tertium_boots=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:pneumatic_leggings, missing knowledge for {1 pneumaticcraft:compressed_iron_leggings=1.0}
+[19Sep2025 15:04:16.112] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_hoe, missing knowledge for {1 mysticalagriculture:prudentium_hoe=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_leggings, missing knowledge for {1 minecraft:leather_leggings=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_leggings, missing knowledge for {1 mysticalagriculture:inferium_leggings=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_scythe, missing knowledge for {1 mysticalagriculture:tertium_scythe=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_leggings, missing knowledge for {1 mysticalagriculture:tertium_leggings=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mekanism:free_runners_armored, missing knowledge for {1 mekanism:free_runners=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_helmet, missing knowledge for {1 minecraft:leather_helmet=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sickle, missing knowledge for {1 mysticalagriculture:diamond_sickle=1.0}
+[19Sep2025 15:04:16.113] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_pickaxe, missing knowledge for {1 mysticalagriculture:prudentium_pickaxe=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_axe, missing knowledge for {1 minecraft:diamond_axe=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sword, missing knowledge for {1 minecraft:diamond_sword=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_chestplate, missing knowledge for {1 mysticalagriculture:imperium_chestplate=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_boots, missing knowledge for {1 minecraft:leather_boots=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_shovel, missing knowledge for {1 mysticalagriculture:imperium_shovel=1.0}
+[19Sep2025 15:04:16.114] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 105 milliseconds
+[19Sep2025 15:04:16.115] [Server thread/WARN] [ModernFix/]: Dedicated server took 93.573 seconds to load
+[19Sep2025 15:04:16.316] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 15:04:16.318] [Server thread/WARN] [dev.satherov.epitaphs.Epitaphs/]: No players found, skipping save
+[19Sep2025 15:04:16.363] [Server thread/INFO] [STDOUT/]: [net.caffeinemc.mods.lithium.common.block.TrackedBlockStatePredicate:<clinit>:13]: Lithium Cached BlockState Flags are disabled!
+[19Sep2025 15:09:11.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Sammon_[/127.0.0.1:59746] logged in with entity id 9 at (28.5, 77.0, 24.5)
+[19Sep2025 15:09:11.279] [Server thread/INFO] [Modonomicon/]: Building books ...
+[19Sep2025 15:09:11.287] [Server thread/INFO] [Modonomicon/]: Books built.
+[19Sep2025 15:09:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ joined the game
+[19Sep2025 15:09:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Don't Look Down...]
+[19Sep2025 15:09:11.683] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{_Sammon_} with UUID 9e0ba823-7866-39ea-aa6d-14a2afcd57d9.
+[19Sep2025 15:09:11.714] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (1 unused), uncached profiles: 0, total profiles: 1
+[19Sep2025 15:09:11.714] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time _Sammon_ joined. Putting into spawn team.
+[19Sep2025 15:09:11.804] [Server thread/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/EnchantmentHelper
+[19Sep2025 15:09:12.808] [Netty Epoll Server IO #1/INFO] [immersiveengineering/]: Recipes for potions: minecraft:slowness, ars_nouveau:recovery_potion_strong, apothic_attributes:absorption, ars_nouveau:mana_regen_potion_strong, minecraft:long_weakness, apothic_attributes:wither, ars_nouveau:blasting_potion_strong, apothic_attributes:strong_grievous, apothic_attributes:flying, apothic_attributes:long_knowledge, minecraft:regeneration, apothic_attributes:resistance, minecraft:harming, minecraft:long_regeneration, apothic_attributes:vitality, apothic_attributes:long_fatigue, minecraft:long_invisibility, minecraft:invisibility, minecraft:slow_falling, ars_nouveau:shielding_potion_strong, minecraft:poison, minecraft:long_poison, minecraft:long_night_vision, minecraft:strong_swiftness, minecraft:strong_healing, ars_nouveau:freezing_potion_long, apothic_attributes:long_grievous, minecraft:leaping, apothic_attributes:haste, minecraft:fire_resistance, apothic_attributes:long_sundering, ars_nouveau:blasting_potion_long, ars_nouveau:spell_damage_potion_long, minecraft:weakness, apothic_attributes:grievous, minecraft:infested, minecraft:long_fire_resistance, minecraft:turtle_master, apothic_attributes:knowledge, minecraft:long_turtle_master, minecraft:swiftness, ars_nouveau:spell_damage_potion, minecraft:long_strength, apothic_attributes:strong_fatigue, minecraft:awkward, minecraft:healing, ars_elemental:shock_potion_long, ars_nouveau:shielding_potion_long, apothic_attributes:levitation, minecraft:weaving, minecraft:strong_regeneration, minecraft:water, ars_nouveau:mana_regen_potion_long, ars_nouveau:shielding_potion, occultism:long_third_eye_potion, ars_elemental:shock_potion, minecraft:long_water_breathing, minecraft:strong_turtle_master, minecraft:strength, minecraft:strong_leaping, minecraft:strong_strength, minecraft:long_leaping, ars_nouveau:freezing_potion_strong, apothic_attributes:long_haste, apothic_attributes:strong_wither, occultism:third_eye_potion, apothic_attributes:fatigue, apothic_attributes:long_resistance, minecraft:strong_slowness, ars_nouveau:recovery_potion_long, minecraft:night_vision, apothic_attributes:strong_absorption, apothic_attributes:extra_long_flying, apothic_attributes:strong_knowledge, ars_elemental:enderference_potion, apothic_attributes:strong_sundering, ars_elemental:enderference_potion_long, apothic_attributes:long_vitality, minecraft:oozing, ars_nouveau:spell_damage_potion_strong, minecraft:long_slow_falling, apothic_attributes:strong_resistance, apothic_attributes:strong_haste, apothic_attributes:long_flying, ars_nouveau:mana_regen_potion, ars_nouveau:recovery_potion, apothic_attributes:long_wither, minecraft:strong_harming, minecraft:wind_charged, ars_nouveau:freezing_potion, minecraft:water_breathing, minecraft:long_swiftness, apothic_attributes:long_absorption, minecraft:long_slowness, apothic_attributes:strong_vitality, ars_nouveau:blasting_potion, apothic_attributes:sundering, minecraft:strong_poison
+[19Sep2025 15:09:13.667] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: _Sammon_
+[19Sep2025 15:09:16.316] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
