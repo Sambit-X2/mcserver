@@ -7576,3 +7576,10 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 18:46:45.817] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
 [19Sep2025 18:46:46.163] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
 [19Sep2025 18:51:46.163] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 18:52:41.152] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 982.1 μs. 438/452 recipes are parallelized.
+[19Sep2025 18:56:45.864] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 18:56:45.864] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 18:56:45.864] [Server thread/INFO] [AllTheLeaks/]: B: 1368MB / C: 1382MB / Diff: +14MB
+[19Sep2025 18:56:45.864] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[19Sep2025 18:56:46.163] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 19:01:46.213] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
