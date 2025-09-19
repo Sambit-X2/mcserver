@@ -7662,3 +7662,12 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 16:54:23.419] [Server thread/INFO] [AllTheLeaks/]: | Player:
 [19Sep2025 16:54:23.419] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
 [19Sep2025 16:59:17.019] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:04:17.069] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 17:04:23.470] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 17:04:23.470] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[19Sep2025 17:04:23.470] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[19Sep2025 17:04:23.470] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 17:04:23.474] [Server thread/INFO] [AllTheLeaks/]: B: 1396MB / C: 1398MB / Diff: +2MB
+[19Sep2025 17:04:23.474] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 17:04:23.474] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[19Sep2025 17:04:23.474] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
