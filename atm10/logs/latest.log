@@ -7638,3 +7638,16 @@ io.netty.handler.codec.CodecException: Codec failure for type gems, message: Fai
 [19Sep2025 16:40:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troy has made the advancement [Captured!]
 [19Sep2025 16:41:59.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Monster Hunter]
 [19Sep2025 16:41:59.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Captured!]
+[19Sep2025 16:44:16.873] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 16:44:23.369] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[19Sep2025 16:44:23.369] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[19Sep2025 16:44:23.369] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[19Sep2025 16:44:23.369] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[19Sep2025 16:44:23.370] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [5/10]
+[19Sep2025 16:44:23.370] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[19Sep2025 16:44:23.370] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[19Sep2025 16:44:23.370] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[19Sep2025 16:45:31.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troy has made the advancement [Stone Age]
+[19Sep2025 16:49:16.919] [Server thread/INFO] [dev.satherov.epitaphs.Epitaphs/]: Running player backup task
+[19Sep2025 16:53:24.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Sammon_ has made the advancement [Sweet Dreams]
+[19Sep2025 16:53:47.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troy has made the advancement [Sweet Dreams]
