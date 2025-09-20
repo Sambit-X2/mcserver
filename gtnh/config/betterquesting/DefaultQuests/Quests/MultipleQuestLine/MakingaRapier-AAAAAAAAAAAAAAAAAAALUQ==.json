@@ -63,7 +63,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Problems killing the Lich? Can\u0027t manage to shoot back his projectiles? No problem, just use a Rapier that ignores armor and the Lich will soon be...re-dead? Un-alive? Whatever happens to something undead once it dies for real.\n\nThe only problem is that the Rapier doesn\u0027t do a lot of damage."
+      "desc:8": "Problems killing armored enemies? Just use a Rapier that ignores armor, but doesn\u0027t do a lot of damage."
     }
   },
   "tasks:9": {
@@ -128,16 +128,10 @@
   },
   "rewards:9": {
     "0:10": {
-      "rewardID:8": "bq_standard:choice",
+      "rewardID:8": "bq_standard:item",
       "index:3": 0,
-      "choices:9": {
+      "rewards:9": {
         "0:10": {
-          "id:8": "TConstruct:materials",
-          "Count:3": 4,
-          "Damage:2": 14,
-          "OreDict:8": ""
-        },
-        "1:10": {
           "id:8": "enhancedlootbags:lootbag",
           "Count:3": 1,
           "Damage:2": 1,
