@@ -14,3 +14,5 @@
 [18:54:21] [Server thread/INFO]: Reloaded default quest database
 [18:54:36] [Server thread/INFO]: _Sammon_[/127.0.0.1:44894] logged in with entity id 1153 at (-201.5, 77.0, -136.5)
 [18:54:36] [Server thread/INFO]: _Sammon_ joined the game
+[18:57:05] [Server thread/INFO]: _Sammon_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:57:05] [Server thread/INFO]: _Sammon_ left the game
