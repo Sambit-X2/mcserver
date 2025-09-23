@@ -29,3 +29,13 @@
 [12:42:58] [main/INFO] [LaunchWrapper]: Constructed RFB plugin rfb-modern-java@1.0.9 (RFB modern Java compatibility plugin): com.gtnewhorizons.rfbplugins.compat.ModernJavaCompatibilityPlugin (jar:file:///workspaces/mcserver/gtnh/lwjgl3ify-forgePatches.jar!META-INF/rfb-plugin/rfb-modern-java.properties)
 [12:42:58] [main/INFO] [LaunchWrapper]: Constructing tweaker cpw.mods.fml.common.launcher.FMLServerTweaker
 [12:42:58] [main/INFO] [LaunchWrapper]: Installing tweaker cpw.mods.fml.common.launcher.FMLServerTweaker
+[15:36:55] [main/INFO] [LaunchWrapper]: Successfully scanned 209 paths for RFB plugins.
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin gtnhlib@0.5.23 (GTNHLib): com.gtnewhorizon.gtnhlib.rfb.GTNHLibRfbPlugin (jar:file:///workspaces/mcserver/gtnh/./mods/gtnhlib-0.5.23.jar!META-INF/rfb-plugin/gtnhlib.properties)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin hodgepodge@2.5.90 (Hodgepodge): com.mitchej123.hodgepodge.rfb.HodgepodgeRfbPlugin (jar:file:///workspaces/mcserver/gtnh/./mods/hodgepodge-2.5.90.jar!META-INF/rfb-plugin/hodgepodge.properties)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin java@21.0.7 (Java): com.gtnewhorizons.rfbplugins.compat.DummyJavaPlugin (jar:file:/workspaces/mcserver/gtnh/lwjgl3ify-forgePatches.jar!/com/gtnewhorizons/retrofuturabootstrap/plugin/PluginLoader.class)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin lwjgl3ify@2.1.9 (LWJGL3ify): me.eigenraven.lwjgl3ify.rfb.Lwjgl3ifyRfbPlugin (jar:file:///workspaces/mcserver/gtnh/./mods/lwjgl3ify-2.1.9.jar!META-INF/rfb-plugin/lwjgl3ify.properties)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin rfb@1.0.9 (RetroFuturaBootstrap): com.gtnewhorizons.rfbplugins.compat.DummyRfbPlugin (jar:file:/workspaces/mcserver/gtnh/lwjgl3ify-forgePatches.jar!/com/gtnewhorizons/retrofuturabootstrap/plugin/PluginLoader.class)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin rfb-asm-safety@1.0.9 (RFB ASM Safety): com.gtnewhorizons.rfbplugins.compat.AsmSafetyPlugin (jar:file:///workspaces/mcserver/gtnh/lwjgl3ify-forgePatches.jar!META-INF/rfb-plugin/rfb-asm-safety.properties)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructed RFB plugin rfb-modern-java@1.0.9 (RFB modern Java compatibility plugin): com.gtnewhorizons.rfbplugins.compat.ModernJavaCompatibilityPlugin (jar:file:///workspaces/mcserver/gtnh/lwjgl3ify-forgePatches.jar!META-INF/rfb-plugin/rfb-modern-java.properties)
+[15:36:55] [main/INFO] [LaunchWrapper]: Constructing tweaker cpw.mods.fml.common.launcher.FMLServerTweaker
+[15:36:55] [main/INFO] [LaunchWrapper]: Installing tweaker cpw.mods.fml.common.launcher.FMLServerTweaker

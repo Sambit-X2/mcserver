@@ -2,11 +2,12 @@
 
 Every 5 days 
 
-# Starting server watch
-cd atm10/ && sh startserver.sh  
+# Starting server
+sh startserver.sh  
+sh startserver-java9.sh
 
 # Autosave
-watch -n 600 'git add . && git commit -m "autosave" || true && git push origin main'
+watch -n 300 'git add . && git commit -m "autosave" || true && git push origin main'
 
 # Tailscale Setup
 curl -fsSL https://tailscale.com/install.sh | sh 
