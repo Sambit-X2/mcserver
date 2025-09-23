@@ -22000,7 +22000,7 @@
 							"data:11": [
 								0,
 								3,
-								5
+								0
 							],
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
 						}
@@ -53246,7 +53246,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-							"value:3": 1
+							"value:3": 3
 						}
 					},
 					"index:3": 0,
