@@ -19,3 +19,7 @@
 [15:40:56] [Server thread/INFO]: _Sammon_ was burnt to a crisp whilst fighting Zombie
 [15:42:01] [Server thread/INFO]: _Sammon_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [15:42:01] [Server thread/INFO]: _Sammon_ left the game
+[15:45:53] [Server thread/INFO]: _Sammon_[/127.0.0.1:44482] logged in with entity id 7241 at (-212.30000101192093, 65.0, -126.28832680048745)
+[15:45:53] [Server thread/INFO]: _Sammon_ joined the game
+[15:46:05] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:46:05] [Server thread/WARN]: Fetching addPacket for removed entity
