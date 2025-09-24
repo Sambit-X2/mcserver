@@ -44,3 +44,7 @@
 [17:49:59] [Server thread/INFO]: _Sammon_ was fireballed by Crimson Cleric
 [18:03:47] [Server thread/INFO]: Troy fell out of the world
 [18:07:14] [Server thread/INFO]: Troy drowned
+[18:14:27] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:14:27] [Server thread/INFO]: Troy left the game
+[18:14:37] [Server thread/INFO]: Troy[/127.0.0.1:39306] logged in with entity id 249278 at (35.04527789030712, 69.0, 361.91663095943636)
+[18:14:37] [Server thread/INFO]: Troy joined the game

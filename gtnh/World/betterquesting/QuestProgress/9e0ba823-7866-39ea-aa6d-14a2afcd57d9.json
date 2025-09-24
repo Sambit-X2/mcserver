@@ -20456,9 +20456,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"timestamp:4": 1758736813277
+					"timestamp:4": 1758737434925
 				}
 			},
 			"questIDLow:4": 17,
@@ -32173,7 +32173,7 @@
 							"data:11": [
 								123,
 								0,
-								0
+								11
 							],
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
 						}
@@ -34012,18 +34012,42 @@
 		},
 		"2122:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
+					"timestamp:4": 1758737650277
+				}
+			},
 			"questIDLow:4": 23,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:crafting"
 				},
 				"1:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
+						}
+					},
 					"index:3": 1,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -42416,7 +42440,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								1
+								0
 							],
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
 						}
@@ -54697,9 +54721,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"timestamp:4": 1758736636269
+					"timestamp:4": 1758737428275
 				}
 			},
 			"questIDLow:4": 21,
