@@ -17,3 +17,17 @@
 [16:02:04] [Server thread/INFO]: _Sammon_ joined the game
 [16:25:45] [Server thread/INFO]: Troy[/127.0.0.1:38258] logged in with entity id 22480 at (27.518049676290016, 68.0, 354.7147868975187)
 [16:25:45] [Server thread/INFO]: Troy joined the game
+[16:26:56] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:26:56] [Server thread/INFO]: Troy left the game
+[16:27:05] [Server thread/INFO]: Troy[/127.0.0.1:43524] logged in with entity id 23346 at (27.518049676290016, 68.0, 354.7147868975187)
+[16:27:05] [Server thread/INFO]: Troy joined the game
+[16:30:29] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:30:29] [Server thread/INFO]: Troy left the game
+[16:30:52] [Server thread/INFO]: Troy[/127.0.0.1:48418] logged in with entity id 26137 at (31.443982772704956, 68.0, 354.78676418570734)
+[16:30:52] [Server thread/INFO]: Troy joined the game
+[16:31:13] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:31:13] [Server thread/INFO]: Troy left the game
+[16:31:33] [Server thread/INFO]: Troy[/127.0.0.1:52372] logged in with entity id 26412 at (32.1998110067155, 68.0, 354.9346538790886)
+[16:31:33] [Server thread/INFO]: Troy joined the game
+[16:32:28] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:32:28] [Server thread/INFO]: Troy left the game
