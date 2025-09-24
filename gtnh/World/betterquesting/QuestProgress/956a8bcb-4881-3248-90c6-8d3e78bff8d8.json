@@ -3191,12 +3191,14 @@
 			"questIDLow:4": 450,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								2,
-								0,
+								1,
 								4
 							],
 							"uuid:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8"
@@ -17331,7 +17333,12 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8",
+							"value:3": 8
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
@@ -17437,7 +17444,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								1
 							],
 							"uuid:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8"
 						}
@@ -32107,7 +32114,7 @@
 						"0:10": {
 							"data:11": [
 								0,
-								0,
+								1,
 								0
 							],
 							"uuid:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8"
