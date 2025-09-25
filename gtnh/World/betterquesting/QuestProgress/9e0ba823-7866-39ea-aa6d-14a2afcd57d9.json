@@ -24098,7 +24098,13 @@
 		},
 		"1503:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 1,
+					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
+					"timestamp:4": 1758797511633
+				}
+			},
 			"questIDLow:4": 32,
 			"tasks:9": {
 				"0:10": {
@@ -24117,11 +24123,13 @@
 					"taskID:8": "bq_standard:crafting"
 				},
 				"1:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								12
+								16
 							],
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
 						}
@@ -38948,7 +38956,7 @@
 						"0:10": {
 							"data:11": [
 								0,
-								9
+								13
 							],
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9"
 						}
