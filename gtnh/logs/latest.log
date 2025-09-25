@@ -45,3 +45,6 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [09:42:01] [Server thread/INFO]: _Sammon_ joined the game
 [09:44:41] [Server thread/INFO]: Troy fell from a high place
 [10:26:23] [Server thread/INFO]: Troy was shot by Skeleton
+[10:58:22] [Server thread/INFO]: _Sammon_ fell out of the world
+[11:00:36] [Server thread/INFO]: _Sammon_ was slain by Fallen Knight
+[11:00:40] [Server thread/INFO]: Troy was slain by Fallen Knight
