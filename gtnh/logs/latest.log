@@ -19,3 +19,5 @@
 [09:02:20] [Server thread/INFO]: _Sammon_ joined the game
 [09:02:26] [Server thread/INFO]: Troy was slain by Silverfish
 [09:12:00] [Server thread/INFO]: _Sammon_ was killed trying to hurt Silverfish
+[09:19:28] [Server thread/INFO]: _Sammon_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:19:28] [Server thread/INFO]: _Sammon_ left the game
