@@ -41,3 +41,6 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 	at Launch//net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
 	at Launch//net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
 [09:34:50] [Server thread/INFO]: Troy was slain by Brutish Zombie
+[09:42:01] [Server thread/INFO]: _Sammon_[/127.0.0.1:48022] logged in with entity id 32258 at (35.66079775650426, 72.0, 347.2279171380356)
+[09:42:01] [Server thread/INFO]: _Sammon_ joined the game
+[09:44:41] [Server thread/INFO]: Troy fell from a high place
