@@ -1,128 +1,15 @@
-[15:56:13] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[15:56:50] [Server thread/INFO]: Loading properties
-[15:56:50] [Server thread/INFO]: Default game type: SURVIVAL
-[15:56:50] [Server thread/INFO]: Generating keypair
-[15:56:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:56:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:56:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:56:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:56:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:57:38] [Server thread/INFO]: Preparing level "World"
-[15:57:40] [Server thread/INFO]: Preparing start region for level 0
-[15:57:41] [Server thread/INFO]: Preparing spawn area: 14%
-[15:57:42] [Server thread/INFO]: Preparing spawn area: 87%
-[15:57:42] [Server thread/INFO]: Done (4.437s)! For help, type "help" or "?"
-[15:57:49] [Server thread/INFO]: Reloaded default quest database
-[16:02:04] [Server thread/INFO]: _Sammon_[/127.0.0.1:40548] logged in with entity id 1569 at (23.939346140122094, 68.0, 354.6981365222737)
-[16:02:04] [Server thread/INFO]: _Sammon_ joined the game
-[16:25:45] [Server thread/INFO]: Troy[/127.0.0.1:38258] logged in with entity id 22480 at (27.518049676290016, 68.0, 354.7147868975187)
-[16:25:45] [Server thread/INFO]: Troy joined the game
-[16:26:56] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:26:56] [Server thread/INFO]: Troy left the game
-[16:27:05] [Server thread/INFO]: Troy[/127.0.0.1:43524] logged in with entity id 23346 at (27.518049676290016, 68.0, 354.7147868975187)
-[16:27:05] [Server thread/INFO]: Troy joined the game
-[16:30:29] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:30:29] [Server thread/INFO]: Troy left the game
-[16:30:52] [Server thread/INFO]: Troy[/127.0.0.1:48418] logged in with entity id 26137 at (31.443982772704956, 68.0, 354.78676418570734)
-[16:30:52] [Server thread/INFO]: Troy joined the game
-[16:31:13] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:31:13] [Server thread/INFO]: Troy left the game
-[16:31:33] [Server thread/INFO]: Troy[/127.0.0.1:52372] logged in with entity id 26412 at (32.1998110067155, 68.0, 354.9346538790886)
-[16:31:33] [Server thread/INFO]: Troy joined the game
-[16:32:28] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:32:28] [Server thread/INFO]: Troy left the game
-[16:41:14] [Server thread/INFO]: Troy[/127.0.0.1:60978] logged in with entity id 32655 at (22.89429173713654, 73.0, 353.18307906336315)
-[16:41:14] [Server thread/INFO]: Troy joined the game
-[17:00:03] [Server thread/INFO]: Troy was slain by Fallen Knight
-[17:07:13] [Server thread/INFO]: _Sammon_ has just earned the achievement [Monster Hunter]
-[17:08:24] [Server thread/INFO]: _Sammon_ blew up
-[17:10:13] [Server thread/INFO]: _Sammon_ has just earned the achievement [Cow Tipper]
-[17:24:41] [Server thread/INFO]: _Sammon_ has just earned the achievement [Buried secrets]
-[17:29:52] [Server thread/INFO]: _Sammon_ has just earned the achievement [My precious!]
-[17:31:00] [Server thread/WARN]: _Sammon_ moved wrongly!
-[17:41:08] [Server thread/INFO]: Troy was burnt to a crisp whilst fighting Sniper Skeleton
-[17:49:59] [Server thread/INFO]: _Sammon_ was fireballed by Crimson Cleric
-[18:03:47] [Server thread/INFO]: Troy fell out of the world
-[18:07:14] [Server thread/INFO]: Troy drowned
-[18:14:27] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:14:27] [Server thread/INFO]: Troy left the game
-[18:14:37] [Server thread/INFO]: Troy[/127.0.0.1:39306] logged in with entity id 249278 at (35.04527789030712, 69.0, 361.91663095943636)
-[18:14:37] [Server thread/INFO]: Troy joined the game
-[18:16:51] [Server thread/INFO]: Troy was slain by Mother Spider
-[18:24:24] [Server thread/INFO]: _Sammon_ was blown up by Gravity Creeper
-[18:24:33] [Server thread/INFO]: _Sammon_ was blown up by Baby Spider
-[18:25:04] [Server thread/INFO]: Troy was slain by Mother Spider
-[18:25:12] [Server thread/INFO]: _Sammon_ was slain by Mother Spider
-[18:25:27] [Server thread/INFO]: Troy was blown up by Doom Creeper
-[18:25:29] [Server thread/INFO]: _Sammon_ was slain by Mother Spider
-[18:25:55] [Server thread/INFO]: Troy was slain by Mother Spider
-[18:25:55] [Server thread/INFO]: _Sammon_ was slain by Armored Skeleton
-[18:26:07] [Server thread/INFO]: Troy was slain by Armored Skeleton
-[18:26:08] [Server thread/INFO]: _Sammon_ was blown up by Death Creeper
-[18:26:32] [Server thread/INFO]: _Sammon_ was slain by Armored Skeleton
-[18:26:49] [Server thread/INFO]: _Sammon_ was slain by Fallen Knight
-[18:34:29] [Server thread/INFO]: Troy was slain by Blinding Silverfish
-[18:34:30] [Server thread/INFO]: _Sammon_ was slain by Blinding Silverfish
-[18:35:56] [Server thread/INFO]: _Sammon_ was blown up by Skeleton
-[18:36:58] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:36:58] [Server thread/INFO]: Troy left the game
-[18:37:28] [Server thread/INFO]: _Sammon_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:37:28] [Server thread/INFO]: _Sammon_ left the game
-[18:37:39] [Server thread/INFO]: Stopping the server
-[18:37:39] [Server thread/INFO]: Stopping server
-[18:37:39] [Server thread/INFO]: Saving players
-[18:37:39] [Server thread/INFO]: Saving worlds
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[18:37:39] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[08:46:02] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[08:46:38] [Server thread/INFO]: Loading properties
+[08:46:38] [Server thread/INFO]: Default game type: SURVIVAL
+[08:46:38] [Server thread/INFO]: Generating keypair
+[08:46:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:46:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:46:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:46:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:46:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:47:26] [Server thread/INFO]: Preparing level "World"
+[08:47:28] [Server thread/INFO]: Preparing start region for level 0
+[08:47:29] [Server thread/INFO]: Preparing spawn area: 10%
+[08:47:30] [Server thread/INFO]: Preparing spawn area: 84%
+[08:47:30] [Server thread/INFO]: Done (4.454s)! For help, type "help" or "?"
+[08:47:37] [Server thread/INFO]: Reloaded default quest database
