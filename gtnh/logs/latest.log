@@ -40,3 +40,4 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 	at Launch//net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
 	at Launch//net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
 	at Launch//net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[09:34:50] [Server thread/INFO]: Troy was slain by Brutish Zombie
