@@ -40,3 +40,8 @@
 [18:56:38] [Server thread/WARN]: Fetching addPacket for removed entity
 [18:59:57] [Server thread/INFO]: Troy was blown up by Dirt Creeper
 [19:03:43] [Server thread/INFO]: Troy fell from a high place
+[19:13:47] [Server thread/INFO]: _Sammon_ lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:13:47] [Server thread/INFO]: _Sammon_ left the game
+[19:14:31] [Server thread/INFO]: _Sammon_[/127.0.0.1:49852] logged in with entity id 303859 at (31.74408163734899, 74.0, 356.80043279652415)
+[19:14:31] [Server thread/INFO]: _Sammon_ joined the game
+[19:14:32] [Server thread/WARN]: Fetching addPacket for removed entity
