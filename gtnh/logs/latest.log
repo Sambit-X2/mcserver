@@ -47,3 +47,5 @@
 [19:14:32] [Server thread/WARN]: Fetching addPacket for removed entity
 [19:21:44] [Server thread/INFO]: _Sammon_ has just earned the achievement [More Tools]
 [19:29:05] [Server thread/INFO]: Troy drowned
+[19:35:28] [Server thread/INFO]: Troy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:35:28] [Server thread/INFO]: Troy left the game
