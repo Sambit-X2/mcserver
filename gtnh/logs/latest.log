@@ -26,3 +26,7 @@
 [17:13:29] [Server thread/INFO]: _Sammon_ has just earned the achievement [Not really better than iron]
 [17:16:21] [Server thread/INFO]: Troy was pricked to death
 [17:54:06] [Server thread/INFO]: _Sammon_ was shot by Poison Skeleton
+[18:09:29] [Server thread/INFO]: _Sammon_ lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:09:29] [Server thread/INFO]: _Sammon_ left the game
+[18:09:45] [Server thread/INFO]: _Sammon_[/127.0.0.1:60132] logged in with entity id 173853 at (23.959250429815263, 69.0, 369.35339608391865)
+[18:09:45] [Server thread/INFO]: _Sammon_ joined the game
