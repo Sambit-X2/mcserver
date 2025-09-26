@@ -17269,9 +17269,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "956a8bcb-4881-3248-90c6-8d3e78bff8d8",
-					"timestamp:4": 1758798925139
+					"timestamp:4": 1758909583503
 				}
 			},
 			"questIDLow:4": 474,
