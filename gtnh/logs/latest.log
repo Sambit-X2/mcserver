@@ -1,20 +1,9 @@
-[14:46:10] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:46:53] [Server thread/INFO]: Loading properties
-[14:46:53] [Server thread/INFO]: Default game type: SURVIVAL
-[14:46:53] [Server thread/INFO]: Generating keypair
-[14:46:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:46:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:46:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:46:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:46:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:47:40] [Server thread/INFO]: Preparing level "World"
-[14:47:42] [Server thread/INFO]: Preparing start region for level 0
-[14:47:43] [Server thread/INFO]: Preparing spawn area: 13%
-[14:47:44] [Server thread/INFO]: Preparing spawn area: 87%
-[14:47:45] [Server thread/INFO]: Done (4.551s)! For help, type "help" or "?"
-[14:47:52] [Server thread/INFO]: Reloaded default quest database
-[14:53:59] [Server thread/INFO]: Troy[/127.0.0.1:52334] logged in with entity id 1474 at (33.296398983474376, 73.0, 355.30092472503924)
-[14:53:59] [Server thread/INFO]: Troy joined the game
-[15:09:07] [Server thread/INFO]: Troy went up in flames
-[15:09:49] [Server thread/INFO]: Troy was slain by Brutish Zombie
-[15:10:00] [Server thread/INFO]: Troy was slain by Brutish Zombie
+[16:10:35] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:11:12] [Server thread/INFO]: Loading properties
+[16:11:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:11:12] [Server thread/INFO]: Generating keypair
+[16:11:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:11:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:11:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:11:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:11:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
