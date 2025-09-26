@@ -703,9 +703,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"timestamp:4": 1758906863795
+					"timestamp:4": 1758908311394
 				}
 			},
 			"questIDLow:4": 37,
@@ -25252,9 +25252,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"timestamp:4": 1758907322791
+					"timestamp:4": 1758908316494
 				}
 			},
 			"questIDLow:4": 1790,
@@ -30654,9 +30654,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"timestamp:4": 1758905665626
+					"timestamp:4": 1758908323045
 				}
 			},
 			"questIDLow:4": 480,
