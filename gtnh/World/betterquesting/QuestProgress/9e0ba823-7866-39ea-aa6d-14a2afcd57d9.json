@@ -14620,7 +14620,12 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
+							"value:3": 1
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
@@ -17613,7 +17618,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-							"value:3": 16
+							"value:3": 17
 						}
 					},
 					"index:3": 0,
@@ -25329,7 +25334,7 @@
 						"0:10": {
 							"data:11": [
 								16,
-								1,
+								0,
 								0,
 								16,
 								16
@@ -45709,7 +45714,7 @@
 						"0:10": {
 							"data:11": [
 								32,
-								1,
+								0,
 								32,
 								16
 							],
