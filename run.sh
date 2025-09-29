@@ -1,5 +1,5 @@
 #!/bin/bash
-cd gtnh/ || exit
+cd gtnh-2.8/ || exit
 
 # Start server
 sh startserver-java9.sh &
