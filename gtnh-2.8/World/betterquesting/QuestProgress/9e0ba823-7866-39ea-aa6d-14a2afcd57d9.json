@@ -23,8 +23,8 @@
 			"completed:9": {
 				"0:10": {
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"claimed:1": 0,
-					"timestamp:4": 1758645260411
+					"claimed:1": 1,
+					"timestamp:4": 1759169062075
 				}
 			}
 		},
@@ -50729,8 +50729,8 @@
 			"completed:9": {
 				"0:10": {
 					"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
-					"claimed:1": 0,
-					"timestamp:4": 1758798872038
+					"claimed:1": 1,
+					"timestamp:4": 1759169067871
 				}
 			}
 		},
