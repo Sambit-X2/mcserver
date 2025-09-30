@@ -40581,7 +40581,7 @@
 						"0:10": {
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
 							"data:11": [
-								0
+								5
 							]
 						}
 					}
@@ -46392,7 +46392,7 @@
 							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
 							"data:11": [
 								0,
-								0,
+								1,
 								0
 							]
 						}
@@ -57738,7 +57738,16 @@
 					"completeUsers:9": {},
 					"taskID:8": "bq_standard:retrieval",
 					"index:3": 0,
-					"userProgress:9": {}
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "9e0ba823-7866-39ea-aa6d-14a2afcd57d9",
+							"data:11": [
+								0,
+								2,
+								1
+							]
+						}
+					}
 				},
 				"1:10": {
 					"completeUsers:9": {},
