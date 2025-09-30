@@ -18,3 +18,5 @@
 [17:25:38] [Server thread/INFO]: _Sammon_ left the game
 [17:25:43] [Server thread/INFO]: _Sammon_[/127.0.0.1:46494] logged in with entity id 6839 at (29.60374429659748, 65.94199995994562, 347.43761345956324)
 [17:25:43] [Server thread/INFO]: _Sammon_ joined the game
+[17:31:05] [Server thread/INFO]: _Sammon_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:31:05] [Server thread/INFO]: _Sammon_ left the game
