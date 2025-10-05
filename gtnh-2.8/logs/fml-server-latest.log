@@ -47914,3 +47914,21 @@ java.util.zip.ZipException: Not in GZIP format
 [12:54:31] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 230 times.
 
 [12:55:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:55:21] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 235 times.
+
+[12:55:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:56:11] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 240 times.
+
+[12:56:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:57:01] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 245 times.
+
+[12:57:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:57:51] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 250 times.
+
+[12:58:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:58:41] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 255 times.
+
+[12:58:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[12:59:31] [Server thread/DEBUG] [FML/]: The world 72ff4bf7 (World) may have leaked: seen 260 times.
+
+[12:59:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
