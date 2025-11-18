@@ -31,4 +31,4 @@ docker run -d \
   --restart unless-stopped \
   lscr.io/linuxserver/chrome:latest
 
-  docker exec -it container_name bash
+  docker exec -it chrome bash
