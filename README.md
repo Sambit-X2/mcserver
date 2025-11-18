@@ -30,3 +30,5 @@ docker run -d \
   --shm-size="1gb" \
   --restart unless-stopped \
   lscr.io/linuxserver/chrome:latest
+
+  docker exec -it container_name bash
